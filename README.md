@@ -8,7 +8,7 @@ Goerli test network for testing transactions
 Alchemy to bind the Goerli network with the Metamask connection
 Tailwindcss for seamless design abilities
 Giphy API to render Giphy images for transactions
-React for creating reusable components
+React for creating reusable components 
 Working with ABI
 ABI (Application Binary Interface) is used to encode and decode transactions in Ethereum. In this project, ABI is used to encode transactions that are sent from the Metamask wallet to another person. The ABI provides a way to describe the structure of the data that is being sent in the transaction, making it easier to parse and understand.
 
